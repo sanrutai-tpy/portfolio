@@ -25,6 +25,6 @@ A responsive and interactive portfolio web application built with React, featuri
 - Deploying web applications with Vercel
 
 ## Preview
-![Demo](./Screenshot.png)
+![Demo](./src/screenshots/Screenshot.png)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
