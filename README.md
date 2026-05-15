@@ -66,3 +66,4 @@ This project is designed as a **portfolio + dashboard hybrid system**, showcasin
 📧 Email: sanrutai.tpy@gmail.com  
 💻 GitHub: https://github.com/sanrutai-tpy  
 🌐 Portfolio: https://portfolio-sanrutai-tangpriyarak.vercel.app/
+⚙️ Mixer Controller: [https://mixercontroller.com/](https://mixercontroller.com/)
