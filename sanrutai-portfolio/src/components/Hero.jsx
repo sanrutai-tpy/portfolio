@@ -38,7 +38,7 @@ export default function Hero() {
         >
           Contact Me
         </a>
-        <a href="https://github.com/sanrutai" target="_blank" rel="noreferrer">
+        <a href="https://github.com/sanrutai-tpy" target="_blank" rel="noreferrer">
           <FaGithub className="w-7 h-7 text-gray-500 dark:text-gray-300 hover:text-teal-500 dark:hover:text-teal-400 transition-colors" />
         </a>
       </div>
