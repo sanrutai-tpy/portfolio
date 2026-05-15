@@ -44,7 +44,7 @@ This project is designed as a **portfolio + dashboard hybrid system**, showcasin
 ## 📸 Preview
 
 ### Home / Portfolio View
-![Screenshot](./src/screenshots/Screenshot.png)
+![Screenshot](./src/screenshots/portfolio.gif)
 
 ---
 
